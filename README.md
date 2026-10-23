@@ -23,7 +23,9 @@ En Linux vale cualquier distribución de 2019 o posterior: Ubuntu 20.04+, Debian
 
 1. Ábrelo desde el menú Inicio o el de aplicaciones. Se abre en el navegador y deja un icono junto al reloj.
 2. Añade tus carpetas en el **Panel**.
-3. La primera vez descarga el modelo de IA (~900 MB) y lo indexa todo. Después solo procesa lo nuevo, y lo hace solo.
+3. Lo indexa todo, y mientras tanto ya puedes buscar: primero por el texto de los PDF y después, poco a poco, por lo que se ve en fotos y páginas. Luego solo procesa lo nuevo, y lo hace solo.
+
+El instalador de Windows descarga el modelo de IA mientras instala: 900 MB con tarjeta gráfica y 1,8 GB sin ella. En Linux se descarga la primera vez que abres Troba.
 
 Con un clic en el icono se abre la búsqueda, y al pasar el ratón por encima ves qué está haciendo. Desde su menú puedes hacer que arranque con el ordenador o cerrarlo.
 
